@@ -1,5 +1,5 @@
 PROJ_NAME = BankMgmtSystem
-SRC = BMS.c 
+SRC = main.c 
 
 ifdef OS
    RM = del /q
